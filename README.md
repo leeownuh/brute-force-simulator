@@ -13,6 +13,9 @@ The **Brute Force Simulator** is a C++ program designed to demonstrate a brute-f
 - Displays each attempted password until the correct password is found.
 - Counts and displays the number of attempts made to crack the password.
 
+  ![image](https://github.com/user-attachments/assets/3ec1513b-e0d9-49d3-9e36-dad7ccef96eb)
+
+
 ## Installation
 To run the simulator, follow these steps:
 
